@@ -8,3 +8,5 @@ Student and web developer / Sou estudante e desenvolvedor WEB
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logoColor=fff&logo=python)&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kuik-san=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
