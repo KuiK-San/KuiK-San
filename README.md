@@ -4,7 +4,7 @@ Student and web developer / Sou estudante e desenvolvedor WEB
 
 :computer: My favorite languages are / Minhas linguagens favoritas são:
 
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rC6a9KHYPK" height="30" width="40" /> KuiK-San#9298
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rC6a9KHYPK" height="auto" width="auto" />KuiK-San#9298
 
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
