@@ -9,6 +9,6 @@ Student and web developer / Sou estudante e desenvolvedor WEB
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logoColor=fff&logo=python)&nbsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuik-san&layout=compact&theme=draculahide_border)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuik-san&layout=compact&theme=dracula&hide_border&title_color(#fff))](https://github.com/anuraghazra/github-readme-stats)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KuiK-San&bg_color=282A36&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
