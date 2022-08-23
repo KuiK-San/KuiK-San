@@ -11,6 +11,5 @@ Student and web developer / Sou estudante e desenvolvedor WEB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuik-san&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KuiK-San&bg_color=262626&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
