@@ -10,10 +10,12 @@ Student and web developer / Sou estudante e desenvolvedor WEB
 
 ### Formation / Formação
 
+-Engenheiria de Software - SENAI - PR <br>
 -Programador WEB - Senac-PR
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuik-san&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KuiK-San&bg_color=262626&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KuiK-San&bg_color=262626&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
