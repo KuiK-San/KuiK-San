@@ -10,7 +10,7 @@ Student and web developer / Sou estudante e desenvolvedor WEB
 
 ### Formation / Formação
 
--Engenheiria de Software - SENAI - PR <br>
+-Engenheiria de Software - UniSenai - PR <br>
 -Programador WEB - Senac-PR
 
 
