@@ -1,21 +1,8 @@
-<h1> Welcome / Seja Bem-Vindo </h1>
- 
-Student and web developer / Sou estudante e desenvolvedor WEB
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8234E9&height=120&section=header"/>
 
-:computer: My favorite languages are / Minhas linguagens favoritas são:
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KuiK-San&show_icons=true&count_private=true&hide_border=true&title_color=8234E9&icon_color=8234E9&text_color=8234E9&bg_color=0d1117" alt="Github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuiK-San&layout=compact&hide_border=true&title_color=8234E9&text_color=8234E9&bg_color=0d1117" />
+  </div>
 
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logoColor=fff&logo=python)&nbsp;
-
-### Formation / Formação
-
--Engenheiria de Software - UniSenai - PR <br>
--Programador WEB - Senac-PR
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuik-san&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KuiK-San&bg_color=262626&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8234E9&height=120&section=footer"/>
