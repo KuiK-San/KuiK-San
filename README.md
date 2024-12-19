@@ -6,4 +6,3 @@
   </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF01C7&height=120&section=footer"/>
-<img width=100% src="https://http.cat/420"/>
